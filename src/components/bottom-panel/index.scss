@@ -1,0 +1,58 @@
+ .bottomContainer {
+     background-image: url("../../images/BottomRightgraph.png");
+     background-size: cover;
+ }
+
+ .bottomPanel {
+     &_container {
+         display: flex;
+         padding: 0 150px 0 150px;
+
+     }
+
+     &_left {
+         padding-top: 180px;
+     }
+
+     &_right {
+         padding: 100px 0;
+     }
+
+ }
+
+ .bottom {
+     &_descriptionBlock {
+         padding-bottom: 130px;
+     }
+
+     &_heading {
+         font-size: 64px;
+         line-height: 90px;
+         font-weight: 800;
+         width: 800px;
+     }
+
+     &_highlightText {
+         background: linear-gradient(180deg, #3F6FC1 0%, #05445E 100%);
+         -webkit-text-fill-color: transparent;
+         -webkit-background-clip: text;
+         background-clip: text;
+     }
+
+     &_description {
+         font-size: 24px;
+         line-height: 40px;
+         font-weight: 400;
+         padding-right: 160px;
+         padding-top: 40px;
+     }
+
+     &_blocks {
+         display: flex;
+     }
+
+     &_leftBlocks {
+         padding-right: 40px;
+     }
+
+ }
