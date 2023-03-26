@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/algozenith/static/css/main.3340104e.css",
+    "main.js": "/algozenith/static/js/main.44ae2dac.js",
+    "static/js/787.b1b1f721.chunk.js": "/algozenith/static/js/787.b1b1f721.chunk.js",
+    "static/media/TopRightImgPng.png": "/algozenith/static/media/TopRightImgPng.42d83c5c2aac184503b6.png",
+    "static/media/MaskgroupPng.png": "/algozenith/static/media/MaskgroupPng.7e9fce01aa6b7b63c5a2.png",
+    "static/media/BottomRightgraph.png": "/algozenith/static/media/BottomRightgraph.80870c5095e256f7f833.png",
+    "static/media/BottomRightTriangleFrame.png": "/algozenith/static/media/BottomRightTriangleFrame.1d8cfdc65d799423ea9e.png",
+    "index.html": "/algozenith/index.html",
+    "main.3340104e.css.map": "/algozenith/static/css/main.3340104e.css.map",
+    "main.44ae2dac.js.map": "/algozenith/static/js/main.44ae2dac.js.map",
+    "787.b1b1f721.chunk.js.map": "/algozenith/static/js/787.b1b1f721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3340104e.css",
+    "static/js/main.44ae2dac.js"
+  ]
+}
